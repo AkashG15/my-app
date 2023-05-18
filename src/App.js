@@ -11,7 +11,7 @@ function App() {
     <div>
       <h4>My List</h4>
       <ol>
-        <li>MI</li>
+        <li>MI x</li>
         <li>TITAN</li>
         <li>APPLE</li>
       </ol>
